@@ -1,6 +1,6 @@
 body {
   background-color: aqua;
 }
-.texte {
-  text-decoration: blueviolet;
+p {
+  color: blueviolet;
 }
